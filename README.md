@@ -1,5 +1,10 @@
 # Self-hosted AI starter kit
 
+> Personal fork used for experimenting with local/self-hosted AI workflows. Original project: n8n-io/self-hosted-ai-starter-kit.
+>
+> Local setup: copy `.env.example` to `.env`, replace the placeholder values, and do not commit your real `.env` file.
+
+
 **Self-hosted AI Starter Kit** is an open-source Docker Compose template designed to swiftly initialize a comprehensive local AI and low-code development environment.
 
 ![n8n.io - Screenshot](https://raw.githubusercontent.com/n8n-io/self-hosted-ai-starter-kit/main/assets/n8n-demo.gif)
